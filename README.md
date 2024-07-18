@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Wideswing-gg, a full stack application that garners pro player contract data for VALORANT.<br>👯 I’m looking to collaborate on Riot Games related projects.<br>🤝 I’m looking for help with upskilling myself to exceed the expectations of a graduate.<br>🌱 I’m currently learning Python & Flask.<br>💬 Ask me about anything development related!<br>⚡ Fun fact is that I want to work for Riot Games one day :D
+🔭 I’m currently working on Wideswing-gg, a full stack application that garners pro player contract data for VALORANT.<br>👯 I’m looking to collaborate on web application related projects.<br>🤝 I’m looking for feedback in upskilling myself to exceed the expectations of a graduate.<br>🌱 I’m currently learning Python & Flask.<br>💬 Ask me about anything development related!<br>⚡ Fun fact is that I want to work for Riot Games one day :D
 
 
 ## 🌐 Socials:
